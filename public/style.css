@@ -1,0 +1,13 @@
+* {
+    font-family: sans-serif;
+}
+
+div {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+textarea {
+    resize: none;
+    text-align: center;
+}
